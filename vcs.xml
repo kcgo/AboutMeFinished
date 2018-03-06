@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/kcgo/TestePrincipal.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kcgo/Agenda.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documentos" />
